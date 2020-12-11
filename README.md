@@ -1,2 +1,2 @@
 # HomerFileRead
-Code reads text file
+Application that reads text file
